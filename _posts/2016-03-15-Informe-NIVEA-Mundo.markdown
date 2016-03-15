@@ -15,7 +15,6 @@ published: true
 
 ---
 
-<br />
 
 ### PORTUGAL
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/NIVEAPortugal/posts/1000413593371112" data-width="350"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/NIVEAPortugal/posts/1000413593371112:0"><p>Desde 1963 consigo. NIVEA Body Milk Nutritivo, diga-lhe quanto o adora, aqui http://www.nivea.pt/Produtos/Cuidado-do-Corpo/Body-Milk-Nutritivo</p>Posted by <a href="https://www.facebook.com/NIVEAPortugal/">NIVEA</a> on&nbsp;<a href="https://www.facebook.com/NIVEAPortugal/posts/1000413593371112:0">Martes, 8 de marzo de 2016</a></blockquote></div></div>
@@ -27,7 +26,6 @@ http://bit.ly/15Ir6eF_CondicionadoresCorporais_NIVEA</p>Posted by <a href="https
 
 ---
 
-<br />
 
 ### ITALIA
 <div class="fb-post" data-href="https://www.facebook.com/113451645334731/posts/1177587182254500#channels" data-width="350"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/NIVEAItalia/posts/1177587182254500"><p>NIVEA Acqua Micellare &#xe8; stata candidata agli Elle Beauty Awards come miglior prodotto per la pulizia del viso. &lt;3
