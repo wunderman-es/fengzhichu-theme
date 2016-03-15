@@ -9,13 +9,13 @@ theme:
   title: Titulo
   #avatar: avatar.png
   hometitle: Home #display on navigation menu.
-  yoursitetitle: YOUR LOGO
+  yoursitetitle: WUNDERMAN
   gravatar: # Email MD5 hash
   description: "used by search engines" # used by search engines
   visiblewords: 300
   # Header and footer text
   header_text: >
-     El mar, la mar, el mar, la mar solo la mar. Por qué me trajiste padre a la ciudad.
+     
 
   header_text_feature_image: img/sample_feature_img.png
   place_holder_image: img/sample_feature_img.png
