@@ -20,7 +20,7 @@ theme:
   header_text_feature_image: img/sample_feature_img.png
   place_holder_image: img/sample_feature_img.png
   footer_text: >
-   <a href="https://wunderman-es.github.io">YOUR TITLE</a> 
+   <a href="https://wunderman-es.github.io">WUNDERMAN</a> 
 
   # Icons
   rss: false
