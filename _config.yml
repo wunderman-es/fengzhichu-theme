@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "" # Set it to "" if use for personal site. The subpath of your site, e.g. /blog/
 url: "wunderman-es.github.io" # the base hostname & protocol for your site
-imageurl: "https://source.unsplash.com/category/nature/2600x500" #"https://unsplash.it/2600/500?random"
+imageurl: "http://www.niveamenusa.com/~/media/NIVEA%20MEN/local/us/mastheads/nivea_men_products_banner.jpg?recode=1" #"https://unsplash.it/2600/500?random"
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
