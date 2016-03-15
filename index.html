@@ -2,8 +2,8 @@
 layout: default
 ---
 <?php 
-$password = "123456";
-if ($_POST['password'] != $password) { 
+$password = "e10adc3949ba59abbe56e057f20f883e";
+if (md5($_POST['password']) != $password) { 
 ?>
 <h2>Logueate</h2>
 <form name="form" method="post" action="">
