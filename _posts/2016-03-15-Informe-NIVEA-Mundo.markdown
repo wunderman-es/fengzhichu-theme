@@ -7,7 +7,6 @@ author: Wunderman España
 published: true
 ---
 
-> Inicia sesión en <a href="https://www.facebook.com/">Facebook</a> para ver las traducciones.
 
 ### ALEMANIA
 <div class="fb-post" data-href="https://www.facebook.com/116098045125668/posts/930972066971591#channels" data-width="350"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/niveadeutschland/posts/930972066971591"><p>Im Bad, im B&#xfc;ro, beim Sport oder in der Handtasche? Wo habt ihr unsere Care immer dabei?</p>Posted by <a href="https://www.facebook.com/niveadeutschland/">NIVEA</a> on&nbsp;<a href="https://www.facebook.com/niveadeutschland/posts/930972066971591">Miércoles, 9 de marzo de 2016</a></blockquote></div></div>
