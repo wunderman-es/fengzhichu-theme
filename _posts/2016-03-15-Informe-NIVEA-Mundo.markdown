@@ -2,7 +2,7 @@
 layout: post
 title:  "Informe NIVEA en el Mundo"
 date:   2016-03-15
-feature-img: "img/sample_feature_img.png"
+feature-img: "img/header.png"
 author: Wunderman España
 published: true
 ---
