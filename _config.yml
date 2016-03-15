@@ -15,22 +15,22 @@ theme:
   visiblewords: 300
   # Header and footer text
   header_text: >
-     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+     El mar, la mar, el mar, la mar solo la mar. Por qué me trajiste padre a la ciudad.
 
   header_text_feature_image: img/sample_feature_img.png
   place_holder_image: img/sample_feature_img.png
   footer_text: >
-   <a href="https://yoursite.com">YOUR TITLE</a> 
+   <a href="https://wunderman-es.github.io">YOUR TITLE</a> 
 
   # Icons
   rss: false
-  email_address: "sam@example.com" # Full email address, e.g. "sam@example.com"
+  email_address:  # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: "fengzhichu"
+  github: 
   weibo: 
   google_plus:
   instagram:
@@ -41,7 +41,7 @@ theme:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "fengzhichu"
+  twitter: 
   wordpress:
   youtube:
 
