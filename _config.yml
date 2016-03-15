@@ -67,7 +67,7 @@ theme:
 
 # PAGINATION
 enforce_ssl: "fengzhichu.com"
-paginate: 5
+paginate: 100
 paginate_path: "blog/page:num"
 permalink: blog/:title/ 
 
