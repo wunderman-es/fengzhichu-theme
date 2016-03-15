@@ -12,7 +12,7 @@ theme:
   yoursitetitle: WUNDERMAN
   gravatar: # Email MD5 hash
   description: "used by search engines" # used by search engines
-  visiblewords: 300
+  visiblewords: 500
   # Header and footer text
   header_text: >
      
